@@ -11,6 +11,9 @@
 *.la
 *.a
 
-*~
-*#
+#for native code
 *.out
+
+# for emacs
+*.*~
+*.*#
